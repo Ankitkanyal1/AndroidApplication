@@ -1,0 +1,11 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="AppTheme." parent="Theme.AppCompat.DayNight.DarkActionBar"/>
+    <string name="app_name">2SplashScreen</string>
+
+    <string name="ankit">Ankit is Perfect</string>
+    <string name="mohit">Mohit is Handsome</string>
+    <string name="rohit">Rohit is Bindass and Vaibhav is Smart</string>
+    <string name="vaibhav">Vaibhav has a sweet behaviour</string>
+
+</resources>
